@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9917385a8b820a7b37bdcb6e",
+  "owner": "pwk8xwvp",
+  "repo": "page-5d8f942aae41d809d706c637",
+  "title": "喵梯",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5d8f942aae41d809d706c637",
+      "a": "喵梯",
+      "b": "2027最新官网",
+      "entity": "喵梯",
+      "brand": "喵梯",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8a4708487d14ecb869f64b8a2a35b916a591ff176b60d3dc3d38f93443a4e52e",
+      "content": {
+        "primary_entity": "喵梯",
+        "keyword1": "喵梯",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，订阅导入后即可在手机、电脑与路由器上使用。",
+          "AI_CLIENTS_TITLE": "常用客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选套餐，导入订阅后即可开始使用喵梯。",
+          "AI_CLOSING_TITLE": "选好套餐立即配置",
+          "AI_DESCRIPTION": "，喵梯提供基础版、旗舰版与团队版三档订阅，月付 100GB 到 1000GB 流量，适合个人多设备、流媒体与团队协作等不同场景，支持按年付更划算。",
+          "AI_FEATURES_INTRO": "从套餐档位到设备数量，结合日常上网需求快速判断。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 支持 3 台设备，适合轻度手机与电脑上网。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 支持 5 台设备，含全节点流媒体解锁与 IPLC 游戏加速。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 支持 20 台设备，可定制企业路由与专属客户经理。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按场景选版",
+          "AI_FEATURE_TITLE_3": "按人数选量",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅导入，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "订阅配置三步走",
+          "AI_HERO_INTRO": "喵梯提供多档海外加速订阅，按月或按年灵活付费，满足手机、电脑与多设备同时使用的需求。",
+          "AI_HERO_SUBTITLE": "多档订阅满足日常加速",
+          "AI_HIGHLIGHT_1": "月付 15 元起畅享加速",
+          "AI_HIGHLIGHT_2": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_3": "年付方案更省月均开销",
+          "AI_PLANS_INTRO": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850，按设备数与流量挑选即可。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量、常用设备数量与使用场景，从基础版、旗舰版和团队版中挑选合适档位。",
+          "AI_STEP_TITLE_1": "选择合适套餐",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备上限与线路说明，确认满足手机、电脑或路由器的使用要求。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，按客户端文档完成配置后即可连接使用。",
+          "AI_STEP_TITLE_3": "导入订阅使用",
+          "AI_VISUAL_TITLE": "喵梯多设备加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版适合单人或少量设备日常浏览，旗舰版流量更多并带 IPLC 专线，适合流媒体与游戏，团队版支持 20 台设备，适合小团队共享。",
+          "AI_FAQ_ANSWER_2": "可在手机、电脑和路由器上使用，同时在线设备数由套餐决定：基础版 3 台、旗舰版 5 台、团队版 20 台。",
+          "AI_FAQ_ANSWER_3": "按年付相比月付更划算，例如基础版年付 150 元、旗舰版年付 350 元、团队版年付 850 元，相当于节省约两个月费用。",
+          "AI_FAQ_ANSWER_4": "可以。每个客户端有不同的订阅导入方式，按对应文档操作即可，同一订阅可在套餐允许的设备数内使用。",
+          "AI_FAQ_ANSWER_5": "基础版提供普通线路节点池，旗舰版与团队版提供更优的专线或高带宽节点，可根据使用场景选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "喵梯可以在哪些设备上使用？",
+          "AI_FAQ_QUESTION_3": "按年付会比按月付更划算吗？",
+          "AI_FAQ_QUESTION_4": "订阅可以同时导入多个客户端吗？",
+          "AI_FAQ_QUESTION_5": "不同套餐的线路质量有区别吗？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "waituclash.com",
+    "host": "waituclash.com"
+  },
+  "file_hashes": {
+    "index.html": "960a06eb4aa39606d5686354676b087fe2f51d7a53ada1ce6c5640281f30e20c",
+    "sitemap.xml": "3bc02284ee82cdfbedbe4a6aaa26291a306edaa8b770f2405a4edd87a27c43d6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f97362ed8bbcbd046d95e1e10b0543647ea80c29bfa85b04c9db37d5bbceb933",
+    "robots.txt": "bb319a25371987d9514840a6d497d82e2c0ba55a158af7ceef7a60abe7bcb211",
+    "8d17069955bd437979c7f8d7bc976445.txt": "8f310d9118bb8639fe7b99efa833d19594358b8a6e9b9a0de2c26b416415f16d"
+  },
+  "revision": "146830078e5ca174f82d67b4dfd02e3de5738b6cd6173ba34a85ed9ed9006780"
+}
